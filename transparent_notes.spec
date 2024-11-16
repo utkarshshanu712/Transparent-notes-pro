@@ -1,21 +1,20 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-block_cipher = None
 
 a = Analysis(
     ['transparent_notes.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('C:\\Users\\sanam\\OneDrive\\Desktop\\T notes\\transparent-notes-pro\\notebook.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
     excludes=[],
     noarchive=False,
+    optimize=0,
 )
-
-pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
+pyz = PYZ(a.pure)
 
 exe = EXE(
     pyz,
@@ -36,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon='notebook.ico'
+    icon=['C:\\Users\\sanam\\OneDrive\\Desktop\\T notes\\transparent-notes-pro\\notebook.ico'],
 )
