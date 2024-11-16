@@ -1,0 +1,16 @@
+# Build and distribution
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Settings
+settings.json
+
+# Environment
+venv/
+.env
+
+# Windows
+desktop.ini
+Thumbs.db
