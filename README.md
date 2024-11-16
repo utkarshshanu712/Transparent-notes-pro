@@ -13,6 +13,11 @@ A lightweight, transparent sticky notes application for Windows with system tray
 - Context menu for quick actions
 - Keyboard shortcuts for common operations
 - Automatic settings save and restore
+- 
+![Screenshot 2024-11-16 194126](https://github.com/user-attachments/assets/877df66a-4cd6-47b5-ba04-ea476fb0bdd6)
+![Screenshot 2024-11-16 194226](https://github.com/user-attachments/assets/caadabe3-a68f-4869-b9dc-c1b9e449c33c)
+![Screenshot 2024-11-16 194209](https://github.com/user-attachments/assets/b4d38024-0cdb-47a7-b52a-2bd690b3cb2e)
+![Screenshot 2024-11-16 194151](https://github.com/user-attachments/assets/f6f7ec0e-5c9e-4819-96a4-cefd2a1d1d85)
 
 ## Usage
 1. Double click `transparent_notes.exe` to start
