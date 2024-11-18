@@ -108,3 +108,16 @@ See LICENSE file for details.
 ## Contact
 - GitHub Issues: [Project Issues](https://github.com/utkarshshanu712/transparent-notes-pro/issues)
 - Email: utkarshshanu712@gmail.com
+
+## Antivirus Concerns
+
+Some antivirus software may flag this application as suspicious due to how Python applications are packaged. This is a false positive. To resolve this:
+
+1. The application is open source - you can review all code on GitHub
+2. You can build from source yourself
+3. Add an exclusion in Windows Defender:
+   - Open Windows Security
+   - Go to Virus & threat protection
+   - Under Virus & threat protection settings, click "Manage settings"
+   - Scroll to Exclusions and click "Add or remove exclusions"
+   - Add the folder containing transparent_notes.exe

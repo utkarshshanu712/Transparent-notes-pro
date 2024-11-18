@@ -12,4 +12,7 @@ PyInstaller.__main__.run([
     '--add-data', f'{icon_path};.',
     '--name', 'transparent_notes',
     '--clean',
+    '--noupx',
+    '--disable-windowed-traceback',
+    '--version-file', 'file_version_info.txt',
 ]) 
