@@ -15,4 +15,6 @@ PyInstaller.__main__.run([
     '--noupx',
     '--disable-windowed-traceback',
     '--version-file', 'file_version_info.txt',
+    '--uac-admin',
+    '--manifest', 'uac-manifest.xml'
 ]) 

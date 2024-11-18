@@ -36,5 +36,7 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
     version='file_version_info.txt',
+    uac_admin=True,
     icon=['C:\\Users\\sanam\\OneDrive\\Desktop\\tnotes\\Transparent-notes-pro\\notebook.ico'],
+    manifest='uac-manifest.xml',
 )

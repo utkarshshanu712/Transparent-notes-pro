@@ -14,3 +14,9 @@ venv/
 # Windows
 desktop.ini
 Thumbs.db
+
+# Security
+*.pem
+*.cert
+*.key
+*.sig
