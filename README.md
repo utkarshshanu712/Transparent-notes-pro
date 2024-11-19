@@ -1,9 +1,9 @@
-# Transparent Notes
+# Transparent Notes by Utkarsh Shanu
 
 A lightweight, transparent sticky notes application for Windows with system tray support. Perfect for keeping notes visible while working on other tasks.
 
 ## Features
-- Multiple tabs support with easy tab management
+- Multiple tabs support with easy tab management,
 - Transparent window with adjustable opacity (10% - 100%)
 - System tray icon for quick access and management
 - Rich text formatting:
