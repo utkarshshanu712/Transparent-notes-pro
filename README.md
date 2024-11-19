@@ -3,39 +3,57 @@
 A lightweight, transparent sticky notes application for Windows with system tray support. Perfect for keeping notes visible while working on other tasks.
 
 ## Features
+- Multiple tabs support with easy tab management
 - Transparent window with adjustable opacity (10% - 100%)
 - System tray icon for quick access and management
-- Customizable text color and size
-- Always on top functionality
-- Window position and settings persistence
-- Minimalistic design
-- Resizable window with drag handles
-- Context menu for quick actions
-- Keyboard shortcuts for common operations
-- Automatic settings save and restore
-- 
+- Rich text formatting:
+  - Text highlighting in multiple colors
+  - Underline text with custom colors
+  - Multiple font styles and sizes
+- File operations:
+  - Open text files (.txt, .py, etc.)
+  - Save notes to files
+  - Auto-save settings
+- Window management:
+  - Resizable with corner handles
+  - Always on top functionality
+  - Position memory
+  - Auto-hiding title bar
+- Customization:
+  - Text color picker
+  - 11 distinct font styles
+  - Font sizes from 8pt to 72pt
+  - Window opacity control
+
 ![Screenshot 2024-11-16 194126](https://github.com/user-attachments/assets/877df66a-4cd6-47b5-ba04-ea476fb0bdd6)
 ![Screenshot 2024-11-16 194226](https://github.com/user-attachments/assets/caadabe3-a68f-4869-b9dc-c1b9e449c33c)
 ![Screenshot 2024-11-16 194209](https://github.com/user-attachments/assets/b4d38024-0cdb-47a7-b52a-2bd690b3cb2e)
 ![Screenshot 2024-11-16 194151](https://github.com/user-attachments/assets/f6f7ec0e-5c9e-4819-96a4-cefd2a1d1d85)
 
+## Keyboard Shortcuts
+- Ctrl + N: New tab
+- Ctrl + W: Close current tab
+- Ctrl + O: Open file
+- Ctrl + S: Save as
+- Ctrl + Plus: Increase font size
+- Ctrl + Minus: Decrease font size
+- Ctrl + Q: Exit application
+
 ## Usage
 1. Double click `transparent_notes.exe` to start
 2. Right-click for context menu with options:
-   - Change text color
-   - Adjust opacity
-   - Toggle always on top
-   - Reset window size
-   - Exit application
+   - Text formatting (highlight, underline)
+   - Font style and size
+   - File operations
+   - Tab management
 3. Use system tray icon to:
    - Show/hide the note window
-   - Access quick settings
-   - Exit the application
-4. Keyboard Shortcuts:
-   - Ctrl + Plus: Increase font size
-   - Ctrl + Minus: Decrease font size
-   - Ctrl + H: Hide window
-   - Ctrl + Q: Quick exit
+   - Quick exit
+4. Mouse hover at top reveals title bar with:
+   - Tab management
+   - Window controls
+   - Opacity settings
+   - Color picker
 
 ## Building from Source
 

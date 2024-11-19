@@ -1,10 +1,18 @@
-Version: 1.0.0
-Release Date: 2024-03-20
+Version: 2.0.0
+Release Date: 2024-03-21
 
 Changes:
-- Initial release
-- Transparent window support
-- System tray functionality
-- Text customization
-- Settings persistence
-- Window position memory 
+- Added multi-tab support with tab management
+- Implemented text highlighting feature
+- Added underline text functionality
+- Added 11 distinct font styles
+- Enhanced font size control (8pt to 72pt)
+- Added file open/save functionality
+- Improved window management:
+  - Corner resize handles
+  - Auto-hiding title bar
+  - Tab-specific settings
+- Enhanced context menu with formatting options
+- Added keyboard shortcuts for common operations
+- Improved settings persistence
+- Bug fixes and performance improvements 
