@@ -25,10 +25,6 @@ A lightweight, transparent sticky notes application for Windows with system tray
   - Font sizes from 8pt to 72pt
   - Window opacity control
 
-![Screenshot 2024-11-16 194126](https://github.com/user-attachments/assets/877df66a-4cd6-47b5-ba04-ea476fb0bdd6)
-![Screenshot 2024-11-16 194226](https://github.com/user-attachments/assets/caadabe3-a68f-4869-b9dc-c1b9e449c33c)
-![Screenshot 2024-11-16 194209](https://github.com/user-attachments/assets/b4d38024-0cdb-47a7-b52a-2bd690b3cb2e)
-![Screenshot 2024-11-16 194151](https://github.com/user-attachments/assets/f6f7ec0e-5c9e-4819-96a4-cefd2a1d1d85)
 
 ## Keyboard Shortcuts
 - Ctrl + N: New tab
@@ -117,11 +113,33 @@ See LICENSE file for details.
 - Special thanks to contributors
 
 ## Version History
-- v1.0.0 - Initial release
-  - Basic functionality
+- v2.0.0 (March 21, 2024)
+  - Added multi-tab support with tab management
+  - Implemented text highlighting and underline features
+  - Added 11 distinct font styles
+  - Enhanced font size control (8pt to 72pt)
+  - Added file open/save functionality
+  - Improved window management with corner resize handles
+  - Added auto-hiding title bar
+  - Enhanced context menu with formatting options
+  - Added keyboard shortcuts
+  - Improved settings persistence
+
+- v1.0.0 (March 15, 2024)
+  - Initial release
+  - Basic note-taking functionality
   - System tray support
-  - Settings persistence
-- Future releases planned
+  - Window transparency control
+  - Basic settings persistence
+  - Simple text editing features
+
+- Future Updates Planned:
+  - Rich text formatting (bold, italic)
+  - Spell check support
+  - Cloud sync integration
+  - Theme customization
+  - Search functionality
+  - Export to different formats
 
 ## Contact
 - GitHub Issues: [Project Issues](https://github.com/utkarshshanu712/transparent-notes-pro/issues)
