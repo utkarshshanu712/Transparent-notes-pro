@@ -124,6 +124,7 @@ See LICENSE file for details.
   - Enhanced context menu with formatting options
   - Added keyboard shortcuts
   - Improved settings persistence
+  - Bug fixes and performance improvements
 
 - v1.0.0 (March 15, 2024)
   - Initial release
